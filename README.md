@@ -4,7 +4,7 @@
 
    - ⚾ [Moneyball](https://github.com/jinwls/Moneyball)
     
-   - 📝 [Undergraduate Research Project](https://github.com/jinwls/Relative_Deprivation_Risk_Preference)
+   - 📝 [URP Project](https://github.com/jinwls/Relative_Deprivation_Risk_Preference)
     
    - ⌨️ [LinkedIn Scraper](https://github.com/jinwls/LinkedIn_Job_Post)
 
