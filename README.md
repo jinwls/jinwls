@@ -1,16 +1,32 @@
-### Hi there 👋
+<center><img src="https://blog.kakaocdn.net/dn/I2OXw/btqDdIicE5C/2D1KhqNaLD8FsvXMrsyD5k/img.gif" width="100%" height="300"></center>
+<h1 align="left">Myoungjin Choi</h1>
+<h3 align="left">🔥Here is what I've Done so far🔥</h3>
 
-<!--
-**jinwls/jinwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   - ⚾ [Moneyball](https://github.com/jinwls/Moneyball)
+    
+   - 📝 [URP Project](https://github.com/jinwls/Relative_Deprivation_Risk_Preference)
+    
+   - ⌨️ [LinkedIn Scraper](https://github.com/jinwls/LinkedIn_Job_Post)
 
-Here are some ideas to get you started:
+   - Check out my repo for more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">🔥Here is what I'm Working On🔥</h3>
+
+   - 🚀 Lotte Members Big Data Competition
+
+
+**This is who I am**
+
+🌱 I’m currently learning **Machine Learning, Statistics**
+
+⚡ Interested in **Data analytics, Football, Soccer, and any other sports**
+
+📫 How to reach me: **myoungjin.choi2@gmail.com**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
