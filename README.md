@@ -17,9 +17,15 @@
 
 **This is who I am**
 
-🌱 I’m currently learning **Machine Learning, Statistics**
+🌱 I’m currently majoring in **Consumer Science** at **Sungkyunkwan University** in Seoul
 
-⚡ Interested in **Data analytics, Football, Soccer, and any other sports**
+⚡ I’m interested in 
+   - **🧐Analyzing Data** 
+   - **📊Interpreting Analyzed Results** 
+   - **🏈Football** 
+   - **⚽️Soccer**
+   - **Any other 💪Sports**
+
 
 📫 How to reach me: **myoungjin.choi2@gmail.com**
 
