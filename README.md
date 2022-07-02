@@ -6,7 +6,7 @@
    
    - 📝 [URP The Association of Individual Relative Deprivaiton on Risk Preference](https://github.com/jinwls/Relative_Deprivation_Risk_Preference)
     
-   - ⌨️ [LinkedIn Scraper](https://github.com/jinwls/LinkedIn_Job_Post)
+   - ⌨️ [LinkedIn Job Description Scraper](https://github.com/jinwls/LinkedIn_Job_Post)
    
    - ⚾ [What's most important: Batting, Pitching, Fielding and Base Running](https://github.com/jinwls/Batting_Pitching_Fielding_Running)
 
