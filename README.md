@@ -3,10 +3,12 @@
 <h3 align="left">🔥Here is what I've Done so far🔥</h3>
 
    - ⚾ [Moneyball](https://github.com/jinwls/Moneyball)
-    
-   - 📝 [URP Project](https://github.com/jinwls/Relative_Deprivation_Risk_Preference)
+   
+   - 📝 [URP The Association of Individual Relative Deprivaiton on Risk Preference](https://github.com/jinwls/Relative_Deprivation_Risk_Preference)
     
    - ⌨️ [LinkedIn Scraper](https://github.com/jinwls/LinkedIn_Job_Post)
+   
+   - ⚾ [What's most important: Batting, Pitching, Fielding and Base Running](https://github.com/jinwls/Batting_Pitching_Fielding_Running)
 
    - Check out my repo for more
 
