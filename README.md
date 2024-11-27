@@ -12,14 +12,10 @@
 
    - Check out my repo for more
 
-<h3 align="left">🔥Here is what I'm Working On🔥</h3>
-
-   - 🚀 Lotte Members Big Data Competition
-
 
 **This is who I am**
 
-🌱 I’m currently majoring in **Consumer Science** at **Sungkyunkwan University** in Seoul
+🌱 I majored in **Consumer Science** at **Sungkyunkwan University** in Seoul
 
 ⚡ I’m interested in 
    - **🧐Analyzing Data** 
