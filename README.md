@@ -13,6 +13,7 @@
    - Check out my repo for more
 
 
+
 **This is who I am**
 
 🌱 I majored in **Consumer Science** at **Sungkyunkwan University** in Seoul
